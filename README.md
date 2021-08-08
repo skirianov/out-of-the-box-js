@@ -1,7 +1,7 @@
 # Welcome
 
-Looking for a project to showcase your skill in programming and JavaScript? There are meriads of them.
-Let's look at some Out of the Box JavaScript projects. 
+Looking for a project to showcase your skill in programming and JavaScript? There are tons of them.
+Let's look at some "Out of the Box JavaScript" projects. 
 
 These are the real life projects which I have personally encountered in my life and automated. There will be no separation on tiers from easy to hard. All of them have some simple parts and some more comlicated. The UI is not important. The logic and problem solving skills - all these tasks are about. 
 
