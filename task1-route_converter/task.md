@@ -10,13 +10,13 @@ You will have to make a small research to understand the exercise better. Some i
 
 You are given a txt file (attached) with the information about your route waypoints. 
 
-[wp] “name” - Name of waypoint
-[pos] xxx xxx - Latitude and Longitude
-[corridor] xxx - Safety corridor on the right
-[corridor_port] xxx - Safety corridor on the left
+- [wp] “name” - Name of waypoint
+- [pos] xxx xxx - Latitude and Longitude
+- [corridor] xxx - Safety corridor on the right
+- [corridor_port] xxx - Safety corridor on the left
 
 # Task 
-Only with frontend create an app to get input from user ([route.txt](../route.txt)), read it, process it and return as a csv file. 
+Only with frontend create an app to get input from user ([route.txt](./route.txt)), read it, process it and return as a csv file. 
  
 - File will be only txt and in the format provided
 - Each waypoint in csv must be “**No.**, **Name**, **Latitude**, **Longitude**, **Corridor**, **Corridor-Left**, **Course**, **Distance**”
