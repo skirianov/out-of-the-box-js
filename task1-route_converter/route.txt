@@ -1,0 +1,149 @@
+﻿[wp] "Waypoint 1"
+[pos]   261800.00   0555800.00
+[radius] 3704.00
+[corridor] 6000
+[corridor_port] 6000
+[sailmode] 0
+[speed] 8.230
+[maxspeed] 0.000
+[minspeed] 0.000
+[danger] 13
+[wait] 0
+[message] ""
+[freespeed] 0
+[etatime] 0
+
+[wp] "Waypoint 2"
+[pos]   262530.00   0561300.00
+[radius] 3704.00
+[corridor] 6000
+[corridor_port] 6000
+[sailmode] 0
+[speed] 8.230
+[maxspeed] 0.000
+[minspeed] 0.000
+[danger] 8
+[wait] 0
+[message] ""
+[freespeed] 0
+[etatime] 0
+
+[wp] "Waypoint 3"
+[pos]   263112.00   0562260.00
+[radius] 3704.00
+[corridor] 4000
+[corridor_port] 6000
+[sailmode] 0
+[speed] 8.230
+[maxspeed] 0.000
+[minspeed] 0.000
+[danger] 12
+[wait] 0
+[message] ""
+[freespeed] 0
+[etatime] 0
+
+[wp] "Waypoint 4"
+[pos]   263330.00   0562900.00
+[radius] 3704.00
+[corridor] 4000
+[corridor_port] 6000
+[sailmode] 0
+[speed] 8.230
+[maxspeed] 0.000
+[minspeed] 0.000
+[danger] 12
+[wait] 0
+[message] ""
+[freespeed] 0
+[etatime] 0
+
+[wp] "Waypoint 5"
+[pos]   263330.00   0563260.00
+[radius] 3704.00
+[corridor] 4000
+[corridor_port] 6000
+[sailmode] 0
+[speed] 8.230
+[maxspeed] 0.000
+[minspeed] 0.000
+[danger] 13
+[wait] 0
+[message] ""
+[freespeed] 0
+[etatime] 0
+
+[wp] "Waypoint 6"
+[pos]   262800.00   0563630.00
+[radius] 3704.00
+[corridor] 8000
+[corridor_port] 8000
+[sailmode] 0
+[speed] 8.230
+[maxspeed] 0.000
+[minspeed] 0.000
+[danger] 13
+[wait] 0
+[message] ""
+[freespeed] 0
+[etatime] 0
+
+[wp] "Waypoint 7"
+[pos]   261658.33   0564208.35
+[radius] 3704.00
+[corridor] 15000
+[corridor_port] 15000
+[sailmode] 0
+[speed] 8.230
+[maxspeed] 0.000
+[minspeed] 0.000
+[danger] 13
+[wait] 0
+[message] ""
+[freespeed] 0
+[etatime] 0
+
+[wp] "Waypoint 8"
+[pos]   253411.26   0565430.24
+[radius] 3704.00
+[corridor] 20000
+[corridor_port] 20000
+[sailmode] 0
+[speed] 8.230
+[maxspeed] 0.000
+[minspeed] 0.000
+[danger] 4
+[wait] 0
+[message] ""
+[freespeed] 0
+[etatime] 0
+
+[wp] "Waypoint 9"
+[pos]   250700.00   0565460.00
+[radius] 3704.00
+[corridor] 20000
+[corridor_port] 20000
+[sailmode] 0
+[speed] 10.032
+[maxspeed] 0.000
+[minspeed] 0.000
+[danger] 12
+[wait] 0
+[message] "18520"
+[freespeed] 0
+[etatime] 0
+
+[wp] "Waypoint 10"
+[pos]   242912.20   0580000.00
+[radius] 3704.00
+[corridor] 20000
+[corridor_port] 20000
+[sailmode] 0
+[speed] 10.032
+[maxspeed] 0.000
+[minspeed] 0.000
+[danger] 12
+[wait] 0
+[message] "18520"
+[freespeed] 0
+[etatime] 0
