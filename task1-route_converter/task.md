@@ -16,6 +16,7 @@ You are given a txt file (attached) with the information about your route waypoi
 - [corridor_port] xxx - Safety corridor on the left
 
 # Task 
+
 Only with frontend create an app to get input from user ([route.txt](./route.txt)), read it, process it and return as a csv file. 
  
 - File will be only txt and in the format provided
@@ -24,9 +25,12 @@ Only with frontend create an app to get input from user ([route.txt](./route.txt
 - **Latitude** and **Longitude** to be in degrees and minutes
 - **Latitude** format “xx xx.x N/S”
 - **Longitude** format “xxx xx.x E/W”
-- **Corridors** and **Distance** must be in Nautical Miles
+- **Corridors** and **Distance** must be in Nautical Miles rounded to 1 digit after period
 - **Course(Bearing)** must be in degrees (000 - 360 format)
 - Last waypoint does **not** have **Course**, **Distance** and **Corridors** even if it is given in a file
+
+**Example**
+[example-calculations](./example1.jpg)
 
 # Resources
 JavaScript library for calculations and conversion 
