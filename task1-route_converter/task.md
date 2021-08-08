@@ -16,7 +16,7 @@ You are given a txt file (attached) with the information about your route waypoi
 [corridor_port] xxx - Safety corridor on the left
 
 # Task 
-Only with frontend create an app to get input from user (file attached), read it, process it and return as a csv file. 
+Only with frontend create an app to get input from user ([route.txt](../route.txt)), read it, process it and return as a csv file. 
  
 - File will be only txt and in the format provided
 - Each waypoint in csv must be “**No.**, **Name**, **Latitude**, **Longitude**, **Corridor**, **Corridor-Left**, **Course**, **Distance**”
@@ -30,7 +30,7 @@ Only with frontend create an app to get input from user (file attached), read it
 
 # Resources
 JavaScript library for calculations and conversion 
-Movable(http://www.movable-type.co.uk/scripts/latlong.html?from=48.9613600,-122.0413400&to=48.965496,-122.072989)
+[Movable](http://www.movable-type.co.uk/scripts/latlong.html?from=48.9613600,-122.0413400&to=48.965496,-122.072989)
 
 # Bonus points
 Once you generated a csv file show the map and plot these waypoints on it using Google maps API or any other API to your taste
