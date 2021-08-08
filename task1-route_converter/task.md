@@ -30,7 +30,7 @@ Only with frontend create an app to get input from user ([route.txt](./route.txt
 - Last waypoint does **not** have **Course**, **Distance** and **Corridors** even if it is given in a file
 
 **Example**
-[example-calculations](./example1.jpg)
+![example-calculations](./example1.jpg)
 
 # Resources
 JavaScript library for calculations and conversion 
