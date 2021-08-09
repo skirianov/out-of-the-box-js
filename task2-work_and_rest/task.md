@@ -2,12 +2,12 @@
 
 # Intro
 
-Web development is not onliny about online shops, social media and static websites. Web is a powerfull platform for creating enterprise applications and services. 
+Web development is not only about online shops, social media and static websites. Web is a powerfull platform for creating enterprise applications and services. 
 In this task you will create something that makes you stand out from the rest. This task is a clear solution to problems some companies may encounter. It is a real life problem in the Industrial Sector. 
 
 # Prerequisites
 
-It is very important to record Work and Rest hours, so managers can plan work accordingly, reduce fatigue and improve safety. Let's build such an app.
+For factories, ships and other industrial sectors it is very important to record Work and Rest hours, so managers can plan work accordingly, reduce fatigue and improve safety. Let's build such an app.
 
 # Task 
 
