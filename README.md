@@ -8,6 +8,7 @@ These are the real life projects which I have personally encountered in my life 
 ## Table of Contents
 
 - [Route converter](./task1-route_converter/task.md) (geopositions, weird data input, browser file read)
+- [Work and Rest](./task2-work_and_rest/task.md) (data structures, local storage, validation)
 
 
 ## Contributions
