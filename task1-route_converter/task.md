@@ -38,3 +38,9 @@ JavaScript library for calculations and conversion
 
 # Bonus points
 Once you generated a csv file show the map and plot these waypoints on it using Google maps API or any other API to your taste
+
+
+Share your results on Twitter with hashtag #OutOfTheBoxJS!
+
+
+# Have a good luck!
